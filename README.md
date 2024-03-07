@@ -4,13 +4,13 @@
 
 Submitted by: **Marthen Nodado**
 
-Time spent: **0.1** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Kotlin Debug-a-thon** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 👋🏽📅❗️
 
 ## Application Features
 
@@ -18,12 +18,12 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] 👋 Debug and fix navigation to Hello World activity
-- [ ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
-- [ ] 📅 Debug and fix Current Day activity 
-- [ ] 🌈 Debug and fix behavior of Random Color activity
-- [ ] 🗒️ Debug and fix Print List activity
-- [ ] 💯 Debug and fix Favorite Number activity
+- [x] 👋 Debug and fix navigation to Hello World activity
+- [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [x] 📅 Debug and fix Current Day activity 
+- [x] 🌈 Debug and fix behavior of Random Color activity
+- [x] 🗒️ Debug and fix Print List activity
+- [x] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
